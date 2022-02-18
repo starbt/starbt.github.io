@@ -75,7 +75,7 @@ ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "starbt，后端/区块链 <br> An Golang/C++ dev & crypto hacker."
+sidebar-about-description: "starbt，后端/区块链 <br> An Golang/C++ dev & crypto NFT."
 # sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -98,9 +98,9 @@ page-mathjax: false
 
 
 # Friends
-friends: [
-    {
+#friends: [
+    #{
     #     title: "Su",
     #     href: "http://su.gallery/"
     # }
-]
+#]
