@@ -1,0 +1,3 @@
+I"�<h2 id="kmp有那么难吗">KMP有那么难吗？</h2>
+<p>学计算机的朋友一定对字符串匹配的场景不陌生，比如Linux的Grep命令。如何快速在一个大文本快速高效查找某一个字符串？这个时候就要用到KMP 算法了。KMP 全称为<code class="language-plaintext highlighter-rouge">Knuth-Morris-Pratt</code>算法，以三位发明这个算法的计算机巨佬命名的。</p>
+:ET
